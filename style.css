@@ -1,0 +1,159 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+
+body {
+    text-align: center;
+    background-color: #0B0014;
+
+}
+
+header div {
+    text-align: left;
+    font-size: x-large;
+
+}
+
+.navbar {
+    text-align: right;
+}
+
+header {
+    background-color: #D44D5C;
+    color: white;
+    padding: 0.9rem;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    margin-bottom: 1.3rem;
+
+
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    padding: 0.6rem;
+    font-size: large;
+
+}
+
+.hypo-block {
+    display: block;
+    margin: 1.2rem auto;
+    color: white;
+    font-size: larger;
+    outline: none;
+
+}
+
+.side-input {
+    display: block;
+    margin: 1.2rem auto;
+    color: black;
+    font-size: larger;
+    outline: none;
+}
+
+.triangle-block {
+    display: block;
+    margin: 1.2rem auto;
+    color: white;
+    font-size: larger;
+    outline: none;
+
+}
+
+.angle-input {
+    display: block;
+    margin: 1.2rem auto;
+    color: black;
+    font-size: larger;
+    outline: none;
+
+}
+
+
+input {
+    padding: 0.5rem 1rem;
+    border-radius: 0.71rem;
+    color: black;
+}
+
+h1 {
+    color: white;
+}
+
+button {
+    padding: 0.5rem 2rem;
+    border-radius: 0.5rem;
+    font-size: large;
+    background-color: #D44D5C;
+    color: white;
+    outline: none;
+    cursor: pointer;
+    margin: 1rem;
+}
+
+
+
+
+
+#output {
+    margin: 1rem;
+    font-size: x-large;
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+.output {
+    font-size: x-large;
+    color: white;
+}
+
+p {
+    color: white;
+    margin: 1rem 0;
+    font-size: large;
+
+}
+
+.inline,
+.stright {
+
+    color: white;
+    font-size: larger;
+    padding: 2rem;
+
+
+}
+
+footer {
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #D44D5C;
+    padding: 0.9rem;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+
+
+}
+
+
+a,
+
+li {
+    display: inline;
+    margin: 1rem;
+    color: white;
+    text-decoration: none;
+    font-size: large;
+}
